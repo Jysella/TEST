@@ -1,0 +1,44 @@
+<baza>
+<zlecenie>
+<numer>123</numer>
+<nazwa>ala ma kota</nazwa>
+<klient>ala</klient>
+<status>ddd</status>
+<dzlec>2011-03-04</dzlec>
+<dodb>2011-04-21</dodb>
+<cena>0,30</cena>
+<ilosc>300</ilosc>
+<wartosc>1123</wartosc>
+<kolor>4+4</kolor>
+<x>123</x>
+<y>223</y>
+<naar>4</naar>
+<ilosckar>1</ilosckar>
+<papier>DCP 100g</papier>
+<papcena>0,212</papcena>
+<folia>1+1 mat</folia>
+<big>2</big>
+<skla>2</skla>
+</zlecenie>
+<zlecenie>
+<numer>221</numer>
+<nazwa>kot ma ale</nazwa>
+<klient>kot</klient>
+<status>ddd</status>
+<dzlec>2011-02-02</dzlec>
+<dodb>2011-03-03</dodb>
+<cena>1,40</cena>
+<ilosc>100</ilosc>
+<wartosc>140</wartosc>
+<kolor>1+4</kolor>
+<x>100</x>
+<y>200</y>
+<naar>4</naar>
+<ilosckar>1<ilosckar>
+<papier>200g kreda</papier>
+<papcena>0,434</papcena>
+<folia>0</folia>
+<big>0</big>
+<skla>0</skla>
+</zlecenie>
+</baza>
